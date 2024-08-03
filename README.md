@@ -3,9 +3,9 @@
 Mi nombre es Victor, radico en la ciudad de méxico.
 
 ## Lenguajes
-* Html, css y javascript.
-* Python.
-* SQL
+* Html, css y javascript.              | Frontend
+* Python.                              | Backend   
+* SQL                                  | Backend  | Análisis de datos 
 
 
 ## Skills
